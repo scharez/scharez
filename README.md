@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[scharez.at](https://scharez.at)
+[git.scharez.at](https://git.scharez.at)
 
 <!--
 **scharez/scharez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
