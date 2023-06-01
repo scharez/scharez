@@ -1,18 +1,16 @@
-### Hi there 👋
+<h1 align="left">Hi 👋 I`m Stefan (scharez) </h1>
+<h3 align="left">Fullstack Developer in 🇦🇹 </h3>
 
-[git.scharez.at](https://git.scharez.at)
+### 🔗 Links :
 
-<!--
-**scharez/scharez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🖥️ WEB | [scharez.at](https://scharez.at)
+- 🤖 STATUS | [status.scharez.at](https:status.scharez.at)
+- 👉 hosted-scharez | [hosted-scharez.at](https://hosted-scharez.at)
 
-Here are some ideas to get you started:
+### 👨‍💻 Projects : 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⏰ Alarme | [alarme.scharez.at](alarme.scharez.at)
+
+### 📫 Contact :
+
+- ✍️ [me@scharez.at](mailto:me@scharez.at)
