@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋 I`m Stefan (scharez) </h1>
-<h3 align="left">Fullstack Developer in 🇦🇹 </h3>
+<h3 align="left">Fullstack Developer </h3>
 
 ### 🔗 Links :
 
