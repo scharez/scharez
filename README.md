@@ -4,7 +4,6 @@
 ### 🔗 Links :
 
 - 🖥️ WEB | [scharez.at](https://scharez.at)
-- 🤖 STATUS | [status.scharez.at](https:status.scharez.at)
 - 👉 hosted-scharez | [hosted-scharez.at](https://hosted-scharez.at)
 
 ### 👨‍💻 Projects : 
