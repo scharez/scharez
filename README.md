@@ -8,7 +8,8 @@
 
 ### 👨‍💻 Projects : 
 
-- ⏰ Alarme | [alarme.scharez.at](alarme.scharez.at)
+- 🚒 Alarme | [alarme.scharez.at](https://alarme.scharez.at)
+- 🕐 TimeSense | [timesense.scharez.at](https://timesense.scharez.at)
 
 ### 📫 Contact :
 
