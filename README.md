@@ -3,15 +3,13 @@
 
 ### 🔗 Links :
 
-- 🖥️ WEB | [scharez.at](https://scharez.at)
-- 👉 hosted-scharez | [hosted-scharez.at](https://hosted-scharez.at)
+- 🖥️ WEB | [tefware.at](https://tefware.at)
 
 ### 👨‍💻 Projects : 
 
-- 🚒 Alarme | [alarme.scharez.at](https://alarme.scharez.at)
-- 🕐 TimeSense | [timesense.scharez.at](https://timesense.scharez.at)
+- 🚒 Alarme | [alarme.tefware.at](https://alarme.tefware.at)
+- 🚑 RK-Dienstanalyse | [rk-dienstanalyse.tefware.at](https://rk-dienstanalyse.tefware.at)
 
 ### 📫 Contact :
 
-- 🧔 [scharez.at/me](https://scharez.at/me)
-- ✍️ [me@scharez.at](mailto:me@scharez.at)
+- ✍️ [stefan.scharinger@tefware.at](mailto:stefan.scharinger@tefware.at)
